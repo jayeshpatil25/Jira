@@ -39,3 +39,5 @@ if __name__ == "__main__":
 
     result = get_chord(key, chord_type)
     print("Chord notes:", result)
+
+#Now the muscial notes are clearly identified
