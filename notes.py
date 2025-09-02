@@ -16,6 +16,8 @@ chords = {
     "diminished seventh": [3, 6, 10]
 }
 
+#Createed dictionary for chord steps
+
 def get_chord(key, chord_type):
     if key not in notes:
         return f"Invalid key: {key}"
@@ -42,4 +44,5 @@ if __name__ == "__main__":
     print("Chord notes:", result)
 
 #Now the muscial notes are clearly identified
+
 
