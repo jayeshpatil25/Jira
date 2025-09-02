@@ -1,5 +1,6 @@
 # List of musical notes
 notes = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
+#Created keys of musical notes
 
 # Dictionary of chord step patterns
 chords = {
@@ -41,3 +42,4 @@ if __name__ == "__main__":
     print("Chord notes:", result)
 
 #Now the muscial notes are clearly identified
+
